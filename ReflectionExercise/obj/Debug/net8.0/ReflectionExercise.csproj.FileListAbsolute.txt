@@ -1,0 +1,14 @@
+C:\Users\Paulo\Desktop\ReflectionExercise\bin\Debug\net8.0\ReflectionExercise.exe
+C:\Users\Paulo\Desktop\ReflectionExercise\bin\Debug\net8.0\ReflectionExercise.deps.json
+C:\Users\Paulo\Desktop\ReflectionExercise\bin\Debug\net8.0\ReflectionExercise.runtimeconfig.json
+C:\Users\Paulo\Desktop\ReflectionExercise\bin\Debug\net8.0\ReflectionExercise.dll
+C:\Users\Paulo\Desktop\ReflectionExercise\bin\Debug\net8.0\ReflectionExercise.pdb
+C:\Users\Paulo\Desktop\ReflectionExercise\obj\Debug\net8.0\ReflectionExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Desktop\ReflectionExercise\obj\Debug\net8.0\ReflectionExercise.AssemblyInfoInputs.cache
+C:\Users\Paulo\Desktop\ReflectionExercise\obj\Debug\net8.0\ReflectionExercise.AssemblyInfo.cs
+C:\Users\Paulo\Desktop\ReflectionExercise\obj\Debug\net8.0\ReflectionExercise.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Desktop\ReflectionExercise\obj\Debug\net8.0\ReflectionExercise.dll
+C:\Users\Paulo\Desktop\ReflectionExercise\obj\Debug\net8.0\refint\ReflectionExercise.dll
+C:\Users\Paulo\Desktop\ReflectionExercise\obj\Debug\net8.0\ReflectionExercise.pdb
+C:\Users\Paulo\Desktop\ReflectionExercise\obj\Debug\net8.0\ReflectionExercise.genruntimeconfig.cache
+C:\Users\Paulo\Desktop\ReflectionExercise\obj\Debug\net8.0\ref\ReflectionExercise.dll
